@@ -8,7 +8,7 @@ Package.on_use(function (api) {
     api.add_files([
     	'modernizr.js',
         'lib/js/bootstrap-slider.js',
-        'lib/css/slider.css'
+        'lib/css/bootstrap-slider.css'
     ], 'client'
     );
 });
